@@ -1,0 +1,2 @@
+Country = "India"
+print(Country[0:5])
