@@ -1,0 +1,4 @@
+a = "Good morning, "
+b = "India"
+c = a+b
+print(c)
