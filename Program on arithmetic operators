@@ -1,0 +1,7 @@
+print("The value of sum of two numbers is:",5+2)
+print(5-2)
+print(8*7)
+print(4/2)
+print(5%2)
+print(5**2)
+print(5//2)
