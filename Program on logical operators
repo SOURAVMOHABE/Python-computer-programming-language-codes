@@ -1,0 +1,5 @@
+bool_1 = True
+bool_2 = False
+print("The value of bool 1 and bool 2 is:",(bool_1 and bool_2))
+print("The value of bool 1 or bool 2 is:",(bool_1 or bool_2))
+print("The value of bool 1 is:",(not bool_1))
