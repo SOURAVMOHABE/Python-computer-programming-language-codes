@@ -1,0 +1,6 @@
+a = "Soldier's"
+b = 'Soldier"s'
+c = '''Soldier"s ready for war"s'''
+print(a)
+print(b)
+print(c)
