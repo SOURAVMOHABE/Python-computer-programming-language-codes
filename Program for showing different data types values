@@ -1,0 +1,10 @@
+x = 4
+y = 20.50
+z = "Nice"
+l = True
+m = None
+print(x)
+print(y)
+print(z)
+print(l)
+print(m)
