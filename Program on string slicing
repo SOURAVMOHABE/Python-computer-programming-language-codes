@@ -1,2 +1,3 @@
 Country = "India"
 print(Country[0:5])
+print(Country[-5:-1])
