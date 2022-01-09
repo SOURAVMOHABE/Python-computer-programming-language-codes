@@ -1,0 +1,2 @@
+Line = "John is good boy.\nHe is\t excellent in study."
+print(Line)
