@@ -1,0 +1,2 @@
+Computer_language = "Python"
+print(Computer_language[0::2])
