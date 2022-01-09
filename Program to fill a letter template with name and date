@@ -1,0 +1,9 @@
+Letter = '''Dear <|Name|>,
+            you are selected for applied job, 
+            your joining date is
+            <|Date|>'''
+name = input("Enter the name:\n")
+date = input("Enter the date:\n")
+Letter = Letter.replace("<|Name|>",name)
+Letter = Letter.replace("<|Date|>",date)
+print(Letter)
