@@ -1,0 +1,7 @@
+Dialogue = "pushpa i am hate tears"
+print(len(Dialogue))
+print(Dialogue.endswith("tears"))
+print(Dialogue.count("s"))
+print(Dialogue.capitalize())
+print(Dialogue.find("i"))
+print(Dialogue.replace("pushpa", "Rashmika"))
