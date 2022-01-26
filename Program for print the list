@@ -7,3 +7,9 @@ print(Friends[3])
 #Change the value of list
 Friends [0]= 'Sourav'
 print(Friends)
+
+#list slicing
+print(Friends[0:3])
+print(Friends[0:])
+print(Friends[:3])
+print(Friends[-4:-1])
