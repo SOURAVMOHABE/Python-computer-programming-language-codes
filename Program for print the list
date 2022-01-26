@@ -1,2 +1,9 @@
 Friends = ['Akash', 7, 8.5, False]
 print(Friends)
+
+# Access using index
+print(Friends[3])
+
+#Change the value of list
+Friends [0]= 'Sourav'
+print(Friends)
