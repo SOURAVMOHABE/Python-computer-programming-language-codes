@@ -1,0 +1,25 @@
+L1 = [1,8,7,2,21,15]
+
+#List sort in ascending order
+L1.sort()
+print(L1)
+
+#List in reverse order
+L1.reverse()
+print(L1)
+
+#Append (Adds the value in the end)
+L1.append(45)
+print(L1)
+
+#Insert the value at a particular index
+L1.insert(0,3)
+print(L1)
+
+#Pop delete the value of particular index
+L1.pop(3)
+print(L1)
+
+#Remove the value from the list
+L1.remove(15)
+print(L1)
