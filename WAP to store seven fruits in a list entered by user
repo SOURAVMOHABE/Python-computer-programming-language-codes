@@ -1,0 +1,9 @@
+Fruit1 = input("Enter the name of first fruit: ")
+Fruit2 = input("Enter the name of second fruit: ")
+Fruit3 = input("Enter the name of third fruit: ")
+Fruit4 = input("Enter the name of fourth fruit: ")
+Fruit5 = input("Enter the name of fifth fruit: ")
+Fruit6 = input("Enter the name of sixth fruit: ")
+Fruit7 = input("Enter the name of seventh fruit: ")
+My_fruitlist = [Fruit1, Fruit2, Fruit3, Fruit4, Fruit5, Fruit6, Fruit7]
+print(My_fruitlist)
