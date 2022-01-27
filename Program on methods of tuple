@@ -1,0 +1,4 @@
+a = (1,7,5,5,5,7)
+print(a.count(5)) # Count method
+
+print(a.index(7)) #Index method
