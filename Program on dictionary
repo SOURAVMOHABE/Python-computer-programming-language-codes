@@ -1,0 +1,5 @@
+My_dictionary = {
+    "Fast" : "In a quick manner",
+    "List" : [1,2,3]
+}
+print(My_dictionary["List"])
