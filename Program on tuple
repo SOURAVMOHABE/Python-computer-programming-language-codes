@@ -1,0 +1,11 @@
+Numbers = (1,5,5,4,6) # Creating the tuple with multi elements
+print(Numbers)
+
+Numbers[3]=5 #This is a immutable
+print(Numbers)
+
+Numbers = () #This is a empty tuple
+print(Numbers)
+
+Numbers = (1,) #This is a single element tuple
+print(Numbers)
