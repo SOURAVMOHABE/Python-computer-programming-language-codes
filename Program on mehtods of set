@@ -1,0 +1,32 @@
+# Add method in set
+a = set()
+a.add(4)
+a.add(5)
+a.add(1)
+print(a)
+
+# Length method in set
+print(len(a))
+
+# Remove method in the set
+a.remove(1)
+print(a)
+
+# Pop method in the set
+a.pop()
+print(a)
+
+# Clear mehtod in the set
+a.clear()
+print(a)
+
+# Union method in the set
+a = {1,2}
+b = {5,6}
+c = {3,4}
+a.union({1,2,3,4,5,6})
+print(a,c,b)
+
+# Intersection method in the set
+c.intersection({3,4})
+print(c)
