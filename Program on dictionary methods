@@ -1,0 +1,21 @@
+a = {"name": "Vikram",
+    "From" : "India",
+    "Marks" : [92,98,96]}
+
+# Key method of dictionary
+print(a.keys())
+print(type(a.keys()))
+print(list(a.keys()))
+print(a.values())
+
+# Item method of dictionary
+print(a.items())
+
+#Update method of dictionary
+updatecontent  = {"Meenakshi" : "Best friend"}
+a.update(updatecontent)
+print(a)
+
+#Get method of dictionary
+print(a.get("name2"))
+print(a("name2"))
