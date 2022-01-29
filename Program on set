@@ -1,0 +1,7 @@
+a = {1,2,3,4,3,4,2,1}
+print(a)
+print(type(a))
+
+# Create an empty set
+a = set()
+print(type(a))
