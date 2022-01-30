@@ -1,0 +1,6 @@
+Translation_dictionary = {"Palang" : "Bed",
+                          "Tauliya" : "Towel",
+                          "Kitab" : "Book"}
+print("Words is availble for translate hindi language to english language: ",Translation_dictionary.keys())
+a = input("Enter the hindi word for translation\n")
+print("The meaning of your word is :" ,Translation_dictionary[a])
