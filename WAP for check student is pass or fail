@@ -1,0 +1,10 @@
+Subject_1 = int(input("Enter the marks of first subject: \n"))
+Subject_2 = int(input("Enter the marks of second subject: \n"))
+Subject_3 = int(input("Enter the marks of third subject: \n"))
+Total = ((Subject_1+Subject_2+Subject_3)/3)
+if(Subject_1<33 and Subject_2<33 and Subject_3<33):
+    print("You are failed")
+elif(Total<40):
+    print("You are failed")
+else:
+    print("You are pass")
