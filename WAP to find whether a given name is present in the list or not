@@ -1,0 +1,6 @@
+names = {"salini", "megha", "anushka", "harshit", "vinay"}
+name = input("Enter the name: \n")
+if name in names:
+    print("Your name is present")
+else:
+    print("Your name is not present")
