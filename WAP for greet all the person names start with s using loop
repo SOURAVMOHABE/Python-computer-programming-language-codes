@@ -1,0 +1,4 @@
+list = ("Sohan","Manoj","Priya","Sandeep")
+for name in list:
+    if name.startswith("S"):
+        print(name)
