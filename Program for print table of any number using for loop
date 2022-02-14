@@ -1,0 +1,4 @@
+num = int(input("Enter the number: \n"))
+for i in range (0, 11):
+    #print(f"{num}*{i}={num*i}")
+    print(str(num) + "X" + str(i) + "=" + str(num*i))
